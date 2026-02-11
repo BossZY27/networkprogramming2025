@@ -1,4 +1,4 @@
 # config.py
-HOST = "127.0.0.1"  # loopback
+HOST = "192.168.56.1"  # network interface
 PORT = 5000
 BUFFER_SIZE = 1024
